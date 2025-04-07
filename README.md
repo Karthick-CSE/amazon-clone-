@@ -20,8 +20,8 @@ This is a simple frontend clone of the Amazon homepage built using *HTML* and *C
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/your-username/amazon-clone.git](https://github.com/Karthick-CSE/amazon-clone-/new/main?filename=README.md)
-
+  https://github.com/Karthick-CSE/amazon-clone-
+  
 2. Open the index.html file in any browser:
 cd amazon-clone
 open index.html
