@@ -19,8 +19,8 @@ This is a simple frontend clone of the Amazon homepage built using *HTML* and *C
 ## How to Run
 
 1. Clone this repository:
-   ```bash
-  https://github.com/Karthick-CSE/amazon-clone-
+   ```bash https://github.com/Karthick-CSE/amazon-clone-
+  
   
 2. Open the index.html file in any browser:
 cd amazon-clone
